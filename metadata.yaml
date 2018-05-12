@@ -1,0 +1,29 @@
+_repo: The-Story-of-Newfoundland_18636
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Birkenhead, Frederick Edwin Smith, Earl of
+    alias: Smith, Frederick Edwin
+    birthdate: 1872
+    deathdate: 1930
+    gutenberg_agent_id: '8164'
+    url: http://www.gutenberg.org/2009/agents/8164
+    wikipedia: http://en.wikipedia.org/wiki/F._E._Smith%2C_1st_Earl_of_Birkenhead
+description: ''
+gutenberg_issued: '2006-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18636'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'America -- Discovery and exploration -- British'
+- !lcsh 'Newfoundland and Labrador -- History'
+title: The Story of Newfoundland
+url: http://www.gutenberg.org/ebooks/18636
